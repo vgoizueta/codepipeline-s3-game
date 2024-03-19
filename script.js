@@ -10,14 +10,12 @@ document.addEventListener('DOMContentLoaded', () => {
         { name: 'card1', img: 'images/pug.png' },
         { name: 'card2', img: 'images/boston.png' },
         { name: 'card2', img: 'images/boston.png' },
-        { name: 'card3', img: 'images/bulldog.png' },
-        { name: 'card3', img: 'images/bulldog.png' },
-        { name: 'card4', img: 'images/golden.png' },
-        { name: 'card4', img: 'images/golden.png' },
-        { name: 'card5', img: 'images/merlin.png' },
-        { name: 'card5', img: 'images/merlin.png' },
-        { name: 'card6', img: 'images/Shih.png' },
-        { name: 'card6', img: 'images/Shih.png' },
+        { name: 'card3', img: 'images/golden.png' },
+        { name: 'card3', img: 'images/golden.png' },
+        { name: 'card4', img: 'images/merlin.png' },
+        { name: 'card4', img: 'images/merlin.png' },
+        { name: 'card5', img: 'images/Shih.png' },
+        { name: 'card5', img: 'images/Shih.png' },
         // ...add more pairs as needed
     ];
 
