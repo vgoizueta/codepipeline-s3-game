@@ -6,16 +6,18 @@ document.addEventListener('DOMContentLoaded', () => {
     let cardsWon = [];
 
     const cardArray = [
-        { name: 'card1', img: 'images/distracted.png' },
-        { name: 'card1', img: 'images/distracted.png' },
-        { name: 'card2', img: 'images/drake.png' },
-        { name: 'card2', img: 'images/drake.png' },
-        { name: 'card3', img: 'images/fine.png' },
-        { name: 'card3', img: 'images/fine.png' },
-        { name: 'card4', img: 'images/rollsafe.png' },
-        { name: 'card4', img: 'images/rollsafe.png' },
-        { name: 'card5', img: 'images/success.png' },
-        { name: 'card5', img: 'images/success.png' },
+        { name: 'card1', img: 'images/pug.png' },
+        { name: 'card1', img: 'images/pug.png' },
+        { name: 'card2', img: 'images/boston.png' },
+        { name: 'card2', img: 'images/boston.png' },
+        { name: 'card3', img: 'images/bulldog.png' },
+        { name: 'card3', img: 'images/bulldog.png' },
+        { name: 'card4', img: 'images/golden.png' },
+        { name: 'card4', img: 'images/golden.png' },
+        { name: 'card5', img: 'images/merlin.png' },
+        { name: 'card5', img: 'images/merlin.png' },
+        { name: 'card6', img: 'images/Shih-Tzu.png' },
+        { name: 'card6', img: 'images/Shih-Tzu.png' },
         // ...add more pairs as needed
     ];
 
